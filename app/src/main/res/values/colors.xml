@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="primaryButtonColor">#1C1C1C</color>
+    <color name="accentButtonColor">#FF9500</color>
+    <color name="secondaryButtonColor">#505050</color>
+</resources>
